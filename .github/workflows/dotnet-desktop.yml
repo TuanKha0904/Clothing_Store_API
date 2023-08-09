@@ -24,8 +24,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: 155.254.244.34
-        username: TuanKha
-        password: n25$$68HbApu5*B
+        server: 205.144.171.3
+        username: TuanKha-001
+        password: UsYpbD854M2@w_w
         local-dir: './_build/'
-        server-dir: /www.ClothingStoreAPI.somee.com/
+        server-dir: /www.tuankha-001-site1.dtempurl.com/
